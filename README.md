@@ -2,5 +2,5 @@
 <div class="header">
     <h1>Dashboard</h1>
     <p><strong>Visualization:</strong></p>
-    <img src="https://i.postimg.cc/1zDW1xy4/currrrrrrrr-(1).png" alt="dashboard">
+    <img src="https://i.postimg.cc/jjKsbbzr/imgggg-(1).jpg" alt="dashboard">
 </div>
